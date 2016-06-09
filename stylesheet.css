@@ -1,0 +1,63 @@
+/* This below section is for all pages on the website*/
+body {
+	background-color: #F6F8F8;
+}
+
+#title {
+	text-align: center;
+	font-size: large;
+	font-family: Muli, sans-serif;
+	color: #95D47A;
+}
+
+.barDeg1 {
+	width: 20%;
+}
+.navOp {
+	width: 20%;
+}
+
+
+#topBar2{
+	width: 100%;
+	height: small;
+	opacity: 50%;
+	background-color: #52CCCE;
+}
+
+.tabText {
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	text-decoration: none;
+	transition: all 0.7s ease 0s;
+}
+.tabText:hover {
+	background-color: #00B0B2;
+}
+
+/*Media Page*/
+.video {
+	width: 100%;
+	height: 56.211354693648%;
+}
+.vidDescription {
+	width: 100%;
+}
+.col1 {
+	width: 50%;
+}
+.col2 {
+	width: 50%;
+}
+
+/*About Page*/
+
+.aboutText {
+	text-align: center;
+	font-family: Montserrat;
+	font-size: small;
+} 
+#webmasterContact {
+	font-size: medium;
+	font-family: Muli;
+}
